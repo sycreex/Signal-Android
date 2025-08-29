@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrivacyMessage</string>
+    <string name="app_description">Güvenli ve Gizli Mesajlaşma</string>
+    
+    <!-- Auth -->
+    <string name="login">Giriş Yap</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="phone_number">Telefon Numarası</string>
+    <string name="pin">PIN</string>
+    <string name="verification_code">Doğrulama Kodu</string>
+    
+    <!-- Navigation -->
+    <string name="conversations">Sohbetler</string>
+    <string name="profile">Profil</string>
+    <string name="settings">Ayarlar</string>
+    
+    <!-- Chat -->
+    <string name="send">Gönder</string>
+    <string name="type_message">Mesaj yazın...</string>
+    <string name="online">Çevrimiçi</string>
+    <string name="offline">Çevrimdışı</string>
+    
+    <!-- Security -->
+    <string name="security">Güvenlik</string>
+    <string name="privacy">Gizlilik</string>
+    <string name="encryption">Şifreleme</string>
+    
+    <!-- Common -->
+    <string name="cancel">İptal</string>
+    <string name="ok">Tamam</string>
+    <string name="save">Kaydet</string>
+    <string name="delete">Sil</string>
+    <string name="edit">Düzenle</string>
+    <string name="back">Geri</string>
+</resources>
